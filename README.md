@@ -1,4 +1,4 @@
-# Montadora de Automóveis em Java ☕
+# Montadora de Automóveis - Java ☕
 
 Este repositório contém um projeto acadêmico em **Java**, que simula uma **Montadora de automóveis**.  
 O objetivo é praticar **Programação Orientada a Objetos (POO)** com uso de classes, atributos e métodos.
